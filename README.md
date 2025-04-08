@@ -1,4 +1,4 @@
 # my-first-repository
 for demo purposes
 
-updated 
+This is awesome feature.
